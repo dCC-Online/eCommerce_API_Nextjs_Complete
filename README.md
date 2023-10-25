@@ -23,6 +23,8 @@ The server will start and listen on port 5000 by default. You should see the mes
    Server is running on port 5000
 ```
 
+## A Postman collection is included. Import it into Postman & test each endpoint.
+
 ## API Endpoints
 
 ### Get All Products
