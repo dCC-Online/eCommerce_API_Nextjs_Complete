@@ -1,4 +1,4 @@
-# Express Products API
+# Express eCommerce API
 
 A basic Express API designed to manage products. This API provides CRUD operations for products and is intended to be used with a Next.js frontend.
 
