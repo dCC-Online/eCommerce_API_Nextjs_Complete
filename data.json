@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Sleek Laptop",
+    "description": "A high-performance laptop with a sleek design.",
+    "price": 1200,
+    "imageUrl": "https://www.pngall.com/wp-content/uploads/2016/05/Laptop-PNG.png"
+  },
+  {
+    "id": 2,
+    "name": "Wireless Earbuds",
+    "description": "Noise-cancelling earbuds with a long battery life.",
+    "price": 150,
+    "imageUrl": "https://www.pngall.com/wp-content/uploads/13/Earphone-Bluetooth-PNG.png"
+  },
+  {
+    "id": 3,
+    "name": "Smartphone Pro",
+    "description": "Latest model with a crystal clear camera and fast processor.",
+    "price": 999,
+    "imageUrl": "https://www.pngall.com/wp-content/uploads/15/Android-Phone-PNG-Clipart.png"
+  },
+  {
+    "id": 4,
+    "name": "Ergonomic Chair",
+    "description": "Comfortable chair perfect for long working hours.",
+    "price": 250,
+    "imageUrl": "https://www.pngall.com/wp-content/uploads/11/Office-Chair-PNG-Images-HD.png"
+  },
+  {
+    "id": 5,
+    "name": "Gaming Console",
+    "description": "Next-gen gaming console with 4K resolution support.",
+    "price": 500,
+    "imageUrl": "https://www.pngall.com/wp-content/uploads/5/PS5-PNG.png"
+  },
+  {
+    "id": 6,
+    "name": "Bluetooth Speaker",
+    "description": "Portable speaker with deep bass and waterproof features.",
+    "price": 80,
+    "imageUrl": "https://www.pngall.com/wp-content/uploads/13/Speaker-PNG-Images-HD.png"
+  },
+  {
+    "id": 7,
+    "name": "Digital Watch",
+    "description": "Stylish digital watch with multiple functionalities.",
+    "price": 70,
+    "imageUrl": "https://www.pngall.com/wp-content/uploads/15/iWatch-Transparent.png"
+  },
+  {
+    "id": 8,
+    "name": "Fitness Tracker",
+    "description": "Track your daily activities, heart rate, and sleep patterns.",
+    "price": 120,
+    "imageUrl": "https://www.pngall.com/wp-content/uploads/15/Apple-iWatch-PNG-Background.png"
+  },
+  {
+    "id": 9,
+    "name": "Tablet",
+    "description": "Lightweight tablet suitable for reading and browsing.",
+    "price": 300,
+    "imageUrl": "https://www.pngall.com/wp-content/uploads/2016/05/Tablet-Free-PNG-Image.png"
+  },
+  {
+    "id": 10,
+    "name": "Charger",
+    "description": "Fast charging cable with universal compatibility.",
+    "price": 40,
+    "imageUrl": "https://www.pngall.com/wp-content/uploads/10/Phone-Charge-PNG-Pic.png"
+  }
+]
