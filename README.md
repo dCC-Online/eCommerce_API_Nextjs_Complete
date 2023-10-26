@@ -1,4 +1,4 @@
-# Express Products API
+# Express eCommerce API
 
 A basic Express API designed to manage products. This API provides CRUD operations for products and is intended to be used with a Next.js frontend.
 
@@ -22,6 +22,8 @@ The server will start and listen on port 5000 by default. You should see the mes
 ```bash
    Server is running on port 5000
 ```
+
+## A Postman collection is included. Import it into Postman & test each endpoint.
 
 ## API Endpoints
 
